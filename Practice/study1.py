@@ -333,18 +333,36 @@ ox = {'a':10,'b':20,'c':30}
 #         while li.count()
 
 
-#1000以内质数
-li = []
+# #1000以内质数
+# li = []
+# for i in range(2,1001):
+#     j=2
+#     while j<=i:
+#         if i%j==0:
+#             break
+#         j+=1
+#     if j<i:
+#         continue
+#     else:
+#         li.append(i)
+#         print(i,end=" ")
+# print(li)
+
+# for a in range(2,10):
+#     for b in range(2,a):
+#         if
+
+
+# li = []
 for i in range(2,1001):
     j=2
-    while j<=i:
+    h=True
+    while j<i:
         if i%j==0:
+            h=False
             break
         j+=1
-    if j<i:
-        continue
-    else:
-        li.append(i)
+# li.append(i)
+    if h:
         print(i,end=" ")
-print(li)
-
+# print(li)
