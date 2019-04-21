@@ -333,7 +333,18 @@ ox = {'a':10,'b':20,'c':30}
 #         while li.count()
 
 
-ee
-
-
+#
+li = []
+for i in range(2,1001):
+    j=2
+    while j<=i:
+        if i%j==0:
+            break
+        j+=1
+    if j<i:
+        continue
+    else:
+        li.append(i)
+        print(i,end=" ")
+print(li)
 
