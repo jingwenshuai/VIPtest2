@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a57d3b0a-9a35-4f9c-9b12-1668a5854baf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/study1.py" afterPath="$PROJECT_DIR$/Practice/study1.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -347,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555850229453</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加了一些基础python语法和练习">
+      <created>1555850297145</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555850297145</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
