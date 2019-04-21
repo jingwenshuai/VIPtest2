@@ -24,8 +24,8 @@
       <file leaf-file-name="study1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Practice/study1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="338" column="7" lean-forward="true" selection-start-line="338" selection-start-column="7" selection-end-line="338" selection-end-column="7" />
+            <state relative-caret-position="403">
+              <caret line="336" column="7" lean-forward="true" selection-start-line="336" selection-start-column="7" selection-end-line="336" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -340,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555848583311</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="添加了一些基础python语法和练习">
+      <created>1555850229453</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555850229453</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -417,8 +424,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/study1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="338" column="7" lean-forward="true" selection-start-line="338" selection-start-column="7" selection-end-line="338" selection-end-column="7" />
+        <state relative-caret-position="403">
+          <caret line="336" column="7" lean-forward="true" selection-start-line="336" selection-start-column="7" selection-end-line="336" selection-end-column="7" />
           <folding />
         </state>
       </provider>

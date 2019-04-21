@@ -333,7 +333,7 @@ ox = {'a':10,'b':20,'c':30}
 #         while li.count()
 
 
-#
+#1000以内质数
 li = []
 for i in range(2,1001):
     j=2
