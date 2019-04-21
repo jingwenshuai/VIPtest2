@@ -352,17 +352,31 @@ ox = {'a':10,'b':20,'c':30}
 #     for b in range(2,a):
 #         if
 
+# #1000以内质数
+# # li = []
+# for i in range(2,1001):
+#     j=2
+#     h=True
+#     while j<i:
+#         if i%j==0:
+#             h=False
+#             break
+#         j+=1
+# # li.append(i)
+#     if h:
+#         print(i,end=" ")
+# # print(li)
 
-# li = []
-for i in range(2,1001):
-    j=2
-    h=True
-    while j<i:
-        if i%j==0:
-            h=False
-            break
-        j+=1
-# li.append(i)
-    if h:
-        print(i,end=" ")
-# print(li)
+#小练习
+# import getpass
+# _un = 'jws'
+# _pw = '123456'
+# un = input('username:')
+# pw = input('password:')
+# # pw = getpass.getpass('password:')
+#
+# if _un == un and _pw == pw:
+#     print('welcome user {name} login...'.format(name=un))
+# else:
+#     print("invalid username or password!")
+
