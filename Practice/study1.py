@@ -127,7 +127,7 @@ a,b =map(int,input('输入a,b空格隔开:').split())
 # del a[2]
 # print(a)
 #
-# m = [11,13,5,7,0,56,23,34,72]
+m = [11,13,5,7,0,56,23,34,72]
 # print(max(m))
 # print(min(m))
 # print(len(m))
@@ -140,9 +140,9 @@ a,b =map(int,input('输入a,b空格隔开:').split())
 # del m[4]
 # print (m)
 #
-# m.sort()
-# m.reverse()
-# print(m)
+m.sort()
+m.reverse()
+print(m)
 #
 # b = [66,67,68]
 # m.extend(b)
@@ -162,7 +162,7 @@ a,b =map(int,input('输入a,b空格隔开:').split())
 # m=list(set(s))     #转换成列表
 # print(m)
 
-ox = {'a':10,'b':20,'c':30}
+# ox = {'a':10,'b':20,'c':30}
 
 # print(ox)
 # print(ox['b'])
