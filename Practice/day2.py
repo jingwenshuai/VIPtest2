@@ -70,23 +70,31 @@
 #
 # cala()
 
+#
+# def cala():
+#     a = int(input('输入第一个数：'))
+#     b = int(input('输入第二个数：'))
+#     c = input('输入运算符号:')
+#     if c == '+':
+#         result = a + b
+#         print('a+b =',result)
+#     elif c == '-':
+#         result = a - b
+#         print('a-b =', result)
+#     elif c == '*':
+#         result = a*b
+#         print('a*b =', result)
+#     elif c =='/':
+#         result = a/b
+#         print('a/b =', result)
+#     else:
+#         print('输入不合法！')
+# cala()
 
-def cala():
-    a = int(input('输入第一个数：'))
-    b = int(input('输入第二个数：'))
-    c = input('输入运算符号:')
-    if c == '+':
-        result = a + b
-        print('a+b =',result)
-    elif c == '-':
-        result = a - b
-        print('a-b =', result)
-    elif c == '*':
-        result = a*b
-        print('a*b =', result)
-    elif c =='/':
-        result = a/b
-        print('a/b =', result)
-    else:
-        print('输入不合法！')
-cala()
+#调用同级目录下mymode模块
+#同一包内调用可调用模块下所有函数用*表示
+#包的调用只能通过from包名import模块名
+import mymode
+mymode.func()
+from mymode import func
+func()

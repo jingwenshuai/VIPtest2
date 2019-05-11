@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a57d3b0a-9a35-4f9c-9b12-1668a5854baf" name="Default" comment="添加了一些基础自动化语法和练习">
-      <change afterPath="$PROJECT_DIR$/Practice/day2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/mymode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/包的调用/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/包的调用/baodiaoyong.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VIPtest2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VIPtest2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/study1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/study1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/day2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/day2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/Practice/study1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
-              <caret line="383" lean-forward="true" selection-start-line="383" selection-end-line="383" />
+              <caret line="383" selection-start-line="383" selection-end-line="383" />
             </state>
           </provider>
         </entry>
@@ -44,8 +47,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Practice/day2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13">
-              <caret line="80" column="18" lean-forward="true" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+            <state relative-caret-position="188">
+              <caret line="98" column="23" lean-forward="true" selection-start-line="98" selection-start-column="23" selection-end-line="98" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/包的调用/baodiaoyong.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice/mymode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -76,13 +97,15 @@
       <list>
         <option value="$PROJECT_DIR$/Practice/se_test.py" />
         <option value="$PROJECT_DIR$/Practice/study1.py" />
+        <option value="$PROJECT_DIR$/Practice/mymode.py" />
+        <option value="$PROJECT_DIR$/包的调用/baodiaoyong.py" />
         <option value="$PROJECT_DIR$/Practice/day2.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="744" />
-    <option name="y" value="43" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="537" />
+    <option name="y" value="51" />
     <option name="width" value="838" />
     <option name="height" value="607" />
   </component>
@@ -106,6 +129,11 @@
               <item name="VIPtest2" type="b2602c69:ProjectViewProjectNode" />
               <item name="VIPtest2" type="462c0819:PsiDirectoryNode" />
               <item name="Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VIPtest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VIPtest2" type="462c0819:PsiDirectoryNode" />
+              <item name="包的调用" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -132,7 +160,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.day2">
+  <component name="RunManager" selected="Python.baodiaoyong">
+    <configuration name="baodiaoyong" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="VIPtest2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/包的调用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/包的调用/baodiaoyong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="day2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="VIPtest2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,6 +275,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.baodiaoyong" />
         <item itemvalue="Python.day2" />
         <item itemvalue="Python.study1" />
         <item itemvalue="Python.se_test" />
@@ -246,7 +297,7 @@
       <workItem from="1556025804438" duration="474000" />
       <workItem from="1556938949130" duration="2690000" />
       <workItem from="1556942696068" duration="3863000" />
-      <workItem from="1557536912494" duration="8861000" />
+      <workItem from="1557536912494" duration="11233000" />
     </task>
     <task id="LOCAL-00001" summary="添加了一些基础python语法和练习">
       <created>1555763807803</created>
@@ -325,22 +376,30 @@
       <option name="project" value="LOCAL" />
       <updated>1556945807629</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="添加了一些基础自动化语法和练习">
+      <created>1557554209746</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1557554209746</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16713000" />
+    <option name="totallyTimeSpent" value="19085000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="537" y="51" width="838" height="607" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.073373675" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27704918" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39767054" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3192389" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3967213" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -369,7 +428,8 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/VIPtest2$se_test.coverage" NAME="se_test Coverage Results" MODIFIED="1556945237758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
     <SUITE FILE_PATH="coverage/VIPtest2$study1.coverage" NAME="study1 Coverage Results" MODIFIED="1557538638538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
-    <SUITE FILE_PATH="coverage/VIPtest2$day2.coverage" NAME="day2 Coverage Results" MODIFIED="1557554182157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
+    <SUITE FILE_PATH="coverage/VIPtest2$day2.coverage" NAME="day2 Coverage Results" MODIFIED="1557555996697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
+    <SUITE FILE_PATH="coverage/VIPtest2$baodiaoyong.coverage" NAME="baodiaoyong Coverage Results" MODIFIED="1557556690949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/包的调用" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1249248731/_elementtree.py" />
@@ -380,7 +440,7 @@
     <entry file="file://$PROJECT_DIR$/Practice/study1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="383" lean-forward="true" selection-start-line="383" selection-end-line="383" />
+          <caret line="383" selection-start-line="383" selection-end-line="383" />
         </state>
       </provider>
     </entry>
@@ -394,10 +454,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/包的调用/baodiaoyong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/mymode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Practice/day2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="80" column="18" lean-forward="true" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+        <state relative-caret-position="188">
+          <caret line="98" column="23" lean-forward="true" selection-start-line="98" selection-start-column="23" selection-end-line="98" selection-end-column="23" />
         </state>
       </provider>
     </entry>
