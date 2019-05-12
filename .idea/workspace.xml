@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Practice/study1.py" line="118" mnemonic="9" />
+    <bookmark url="file://$PROJECT_DIR$/day1/study1.py" line="118" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a57d3b0a-9a35-4f9c-9b12-1668a5854baf" name="Default" comment="添加了一些基础自动化语法和练是">
-      <change beforePath="$PROJECT_DIR$/Practice/day2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/day2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/mymode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/mymode.py" afterDir="false" />
+    <list default="true" id="a57d3b0a-9a35-4f9c-9b12-1668a5854baf" name="Default" comment="添加了一些基础自动化语法和练习">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/se_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/se_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/study1.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/study1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +20,26 @@
     <SUITE FILE_PATH="coverage/VIPtest2$study1.coverage" NAME="study1 Coverage Results" MODIFIED="1555858718509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day2/文件IO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="84" column="12" lean-forward="true" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,7 +58,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Practice/se_test.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day1/se_test.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -48,11 +69,12 @@
         <option value="$PROJECT_DIR$/Practice/day2.py" />
         <option value="$PROJECT_DIR$/Practice/mymode.py" />
         <option value="$PROJECT_DIR$/Practice/异常处理.py" />
-        <option value="$PROJECT_DIR$/data.txt" />
         <option value="$PROJECT_DIR$/Practice/文件IO.py" />
         <option value="$PROJECT_DIR$/day2/类的使用.py" />
         <option value="$PROJECT_DIR$/day2/类的继承.py" />
         <option value="$PROJECT_DIR$/day2/多重继承.py" />
+        <option value="$PROJECT_DIR$/data.txt" />
+        <option value="$PROJECT_DIR$/day2/文件IO.py" />
       </list>
     </option>
   </component>
@@ -113,7 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.异常处理">
+  <component name="RunManager" selected="Python.文件IO (1)">
     <configuration name="异常处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="VIPtest2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,6 +150,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\D\VIPtest2\day2\异常处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="文件IO (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="VIPtest2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2/文件IO.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,6 +294,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.文件IO (1)" />
         <item itemvalue="Python.文件IO" />
         <item itemvalue="Python.异常处理" />
       </list>
@@ -271,6 +316,7 @@
       <workItem from="1556938949130" duration="2690000" />
       <workItem from="1556942696068" duration="3863000" />
       <workItem from="1557536912494" duration="28992000" />
+      <workItem from="1557634928898" duration="4469000" />
     </task>
     <task id="LOCAL-00001" summary="添加了一些基础python语法和练习">
       <created>1555763807803</created>
@@ -363,21 +409,35 @@
       <option name="project" value="LOCAL" />
       <updated>1557556872950</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="添加了一些基础自动化语法和练是">
+      <created>1557634978970</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1557634978970</updated>
+    </task>
+    <task id="LOCAL-00015" summary="添加了一些基础自动化语法和练习">
+      <created>1557639985047</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1557639985047</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36844000" />
+    <option name="totallyTimeSpent" value="41313000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20045386" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20347957" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24262296" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30819672" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39600664" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -401,11 +461,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加了一些基础python语法和练习" />
-    <MESSAGE value="添加了一些基础自动化语法和练习" />
     <MESSAGE value="添加了一些基础自动化语法和练是" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加了一些基础自动化语法和练是" />
+    <MESSAGE value="添加了一些基础自动化语法和练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了一些基础自动化语法和练习" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/VIPtest2$IO__1_.coverage" NAME="文件IO (1) Coverage Results" MODIFIED="1557638250434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
     <SUITE FILE_PATH="coverage/VIPtest2$se_test.coverage" NAME="se_test Coverage Results" MODIFIED="1556945237758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
     <SUITE FILE_PATH="coverage/VIPtest2$study1.coverage" NAME="study1 Coverage Results" MODIFIED="1557538638538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
     <SUITE FILE_PATH="coverage/VIPtest2$day2.coverage" NAME="day2 Coverage Results" MODIFIED="1557557655701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
@@ -417,7 +478,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1249248731/_elementtree.py" />
     <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1249248731/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/Practice/debug.log">
+    <entry file="file://$PROJECT_DIR$/day1/debug.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/day2/包的调用/baodiaoyong.py">
@@ -441,21 +502,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day2/文件IO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/se_test.py">
+    <entry file="file://$PROJECT_DIR$/day1/se_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
@@ -500,10 +547,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/study1.py">
+    <entry file="file://$PROJECT_DIR$/day1/study1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="383" selection-start-line="383" selection-end-line="383" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/文件IO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="84" column="12" lean-forward="true" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
         </state>
       </provider>
     </entry>
