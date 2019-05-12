@@ -94,7 +94,12 @@
 #调用同级目录下mymode模块
 #同一包内调用可调用模块下所有函数用*表示
 #包的调用只能通过from包名import模块名
-import mymode
-mymode.func()
-from mymode import func
-func()
+# import mymode
+# # mymode.func()
+# # from mymode import func
+# # func()
+import sys
+from day2 import 模块调用
+
+dir(模块调用)
+dir(sys)
