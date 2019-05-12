@@ -76,6 +76,7 @@ with open('C:\D\VIPtest2\day2\data.txt','r+') as f:
     #字符串分割，将字符串以逗号分隔成为一个列表
     m = res.split(',')
     print('m为：',m)
+
     P = []
     for i in m:
         if i.isdigit():
