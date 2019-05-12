@@ -65,7 +65,7 @@ with open('C:\D\VIPtest2\data.txt','r+') as f:
     print(type(f.readline()))
 '''
 
-with open('C:\D\VIPtest2\data.txt','r+') as f:
+with open('C:\D\VIPtest2\day2\data.txt','r+') as f:
     res = f.read()
     print(res)
 
