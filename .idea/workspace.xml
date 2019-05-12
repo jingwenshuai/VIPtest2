@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a57d3b0a-9a35-4f9c-9b12-1668a5854baf" name="Default" comment="Python基础语法">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/study1.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/study1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,20 +22,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day2/文件IO.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="85" column="12" lean-forward="true" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
+            <state relative-caret-position="2295">
+              <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day1/se_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+              <folding>
+                <element signature="e#14#44#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day1/se_test.py">
+        <entry file="file://$PROJECT_DIR$/day1/study1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-              <folding>
-                <element signature="e#14#44#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="236">
+              <caret line="377" column="29" lean-forward="true" selection-start-line="377" selection-start-column="29" selection-end-line="377" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -76,6 +86,7 @@
         <option value="$PROJECT_DIR$/data.txt" />
         <option value="$PROJECT_DIR$/day2/异常处理.py" />
         <option value="$PROJECT_DIR$/day2/文件IO.py" />
+        <option value="$PROJECT_DIR$/day1/study1.py" />
       </list>
     </option>
   </component>
@@ -93,7 +104,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VIPtest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VIPtest2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VIPtest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VIPtest2" type="462c0819:PsiDirectoryNode" />
+              <item name="day1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VIPtest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VIPtest2" type="462c0819:PsiDirectoryNode" />
+              <item name="day2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -304,6 +335,7 @@
       <workItem from="1557536912494" duration="28992000" />
       <workItem from="1557634928898" duration="4469000" />
       <workItem from="1557640690543" duration="2532000" />
+      <workItem from="1557665084588" duration="64000" />
     </task>
     <task id="LOCAL-00001" summary="添加了一些基础python语法和练习">
       <created>1555763807803</created>
@@ -438,16 +470,24 @@
       <option name="project" value="LOCAL" />
       <updated>1557665010777</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Python基础语法">
+      <created>1557665104915</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1557665104915</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43845000" />
+    <option name="totallyTimeSpent" value="43909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2065053" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20953101" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -547,13 +587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day1/study1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10098">
-          <caret line="374" column="25" lean-forward="true" selection-start-line="374" selection-start-column="25" selection-end-line="374" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day2/类的使用.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -577,18 +610,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day2/文件IO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="85" column="12" lean-forward="true" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
+        <state relative-caret-position="2295">
+          <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day1/se_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        <state relative-caret-position="183">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
           <folding>
             <element signature="e#14#44#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day1/study1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="377" column="29" lean-forward="true" selection-start-line="377" selection-start-column="29" selection-end-line="377" selection-end-column="29" />
         </state>
       </provider>
     </entry>
