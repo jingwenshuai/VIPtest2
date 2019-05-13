@@ -64,6 +64,24 @@ with open('C:\D\VIPtest2\data.txt','r+') as f:
     print(f.readline())
     print(type(f.readline()))
 '''
+# print('++++++++++++++++')
+# P = [3,2,6,8,9,4,7]
+# # def mppx(P):
+# cd = len(P)
+# while cd > 0:
+#     for i in range(len(P) - 1):
+#         if P[i] > P[i+1]:
+#             print(P[i])
+#             print(P[i+1])
+#             print('--------------')
+#             P[i],P[i+1] = P[i+1],P[i]
+#             print(P[i])
+#             print(P[i + 1])
+#             print('============')
+#
+#     cd -=1
+# print(P)
+
 
 with open('C:\D\VIPtest2\day2\data.txt','r+') as f:
     res = f.read()
@@ -77,10 +95,23 @@ with open('C:\D\VIPtest2\day2\data.txt','r+') as f:
     m = res.split(',')
     print('m为：',m)
 
+    #取出数字部分
     P = []
     for i in m:
         if i.isdigit():
             P.append(i)
-    #sort()排序方法直接改变列表
-    P.sort()
+    #冒泡排序
+    cd = len(P)
+    while cd > 0:
+        for i in range(len(P)-1):
+            if P[i] > P[i+1]:
+                P[i],P[i+1] = P[i+1],P[i]
+        cd -=1
     print(P)
+
+
+#     #sort()排序方法直接改变列表
+#     print(P)
+#     print('--------------------')
+    # P.sort()
+    # print(P)
