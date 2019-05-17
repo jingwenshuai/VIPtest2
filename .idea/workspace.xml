@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a57d3b0a-9a35-4f9c-9b12-1668a5854baf" name="Default" comment="Python基础语法">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/5_17_作业.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/5_17_作业.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -410,7 +409,7 @@
       <workItem from="1557843175120" duration="800000" />
       <workItem from="1557919610959" duration="5246000" />
       <workItem from="1558010438249" duration="3346000" />
-      <workItem from="1558092619696" duration="6250000" />
+      <workItem from="1558092619696" duration="6861000" />
     </task>
     <task id="LOCAL-00001" summary="添加了一些基础python语法和练习">
       <created>1555763807803</created>
@@ -608,11 +607,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558017674679</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Python基础语法">
+      <created>1558104697053</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1558104697053</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68155000" />
+    <option name="totallyTimeSpent" value="68766000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
