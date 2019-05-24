@@ -87,18 +87,18 @@ Python练习题：
 # 3）.将以上三件家具添加到房子中
 # 4）.打印房子时，要求输出:户型，总面积，剩余面积，家具名称列表
 
-class Home:         #创建房子类
-
-    def __init__(self):
-        self.name = name
-
-
-class Hose():  #创建家具类
-
-    def __init__(self):
-        self.name = name
-        self.area = area
-
-    def __str__(self):
-        return "[%s]：占地[%.2f]"%(self.name,self.area)
+# class Home:         #创建房子类
+#
+#     def __init__(self):
+#         self.name = name
+#
+#
+# class Hose():  #创建家具类
+#
+#     def __init__(self):
+#         self.name = name
+#         self.area = area
+#
+#     def __str__(self):
+#         return "[%s]：占地[%.2f]"%(self.name,self.area)
 #
