@@ -12,4 +12,5 @@ print(r.text)
 print(r.status_code)
 print(type(r.json()))
 #通过字典dict-key来访问对应的值
+print(r.json())
 print(r.json()['data']['username'])
